@@ -1,9 +1,9 @@
 # Dripp-Restaurant
-Project Description: This project is a program for an ice cream restaurant
+Project Description: This project is a program for an ice cream restaurant.
 
-Purpose: To help reduce the spread of Covid-19 as well as help customers order ahead in a quick and simple fashion
+Purpose: To help reduce the spread of Covid-19 as well as help customers order ahead in a quick and simple fashion. Lots of people will want to limit their contact with people making the food so this will help in doing that.
 
-creator name: Mohammad Shafi
+Creator Name: Mohammad Shafi
 
 Version Number: 14.0.1
 
